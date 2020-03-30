@@ -11,6 +11,12 @@
 * **$setbotname [name]** - Set a name for the bot.
 * **$setbotstatus [status]** - Set bot status.
 
+## Giveaway
+
+ * **$start --> To Start a Giveaway.
+ * **$groll --> To Choose Another Winner.
+ * **$gend  --> To End a giveaway.
+
 ## Games
 
 * **$csgo [MySteamID]** - Get csgo stats for an user given by STEAMID64.
