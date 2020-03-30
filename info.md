@@ -17,6 +17,10 @@
 * **$groll** --> To Choose Another Winner.
 * **$gend**  --> To End a giveaway.
 
+## Level
+
+* **$rank** --> Check your rank/level
+
 ## Games
 
 * **$csgo [MySteamID]** - Get csgo stats for an user given by STEAMID64.
