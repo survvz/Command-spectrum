@@ -13,9 +13,9 @@
 
 ## Giveaway
 
-* **$start --> To Start a Giveaway.
-* **$groll --> To Choose Another Winner.
-* **$gend  --> To End a giveaway.
+* **$start** --> To Start a Giveaway.
+* **$groll** --> To Choose Another Winner.
+* **$gend**  --> To End a giveaway.
 
 ## Games
 
