@@ -10,6 +10,7 @@
 * **$removerole [user] [role]** - Remove a role of an user.
 * **$setbotname [name]** - Set a name for the bot.
 * **$setbotstatus [status]** - Set bot status.
+* **$channel [Channel id]** - Set welcome channel.
 
 ## Giveaway
 
